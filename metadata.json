@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Animation Playground",
+  "description": "A highly polished, responsive interactive client-side animation playground with controls, presets, stats, and theme support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
